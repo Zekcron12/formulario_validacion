@@ -53,6 +53,9 @@ main {
 	cursor: pointer;
 	color: #01D8B7;
 }
+.msj {
+	margin-top: 10px;
+}
 
 .formulario__grupo-input {
 	position: relative;
