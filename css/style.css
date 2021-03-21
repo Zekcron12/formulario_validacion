@@ -202,4 +202,7 @@ main {
 	.formulario__btn {
 		width: 100%;
 	}
+	.title__principal h1 {
+		font-size: 35px;
+	}
 }
